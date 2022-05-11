@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-galeria-pokemones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgramRo/proyecto-galeria-pokemones.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProgramRo/proyecto-galeria-pokemones/issues"
+  },
+  "homepage": "https://github.com/ProgramRo/proyecto-galeria-pokemones#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
